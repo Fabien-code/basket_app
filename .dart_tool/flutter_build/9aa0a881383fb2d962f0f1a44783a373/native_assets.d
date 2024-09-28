@@ -1,0 +1,1 @@
+ C:\\Users\\FireF\\shot_tracker\\.dart_tool\\flutter_build\\9aa0a881383fb2d962f0f1a44783a373\\native_assets.yaml: 

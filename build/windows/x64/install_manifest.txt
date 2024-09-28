@@ -1,0 +1,11 @@
+C:/Users/FireF/shot_tracker/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/FireF/shot_tracker/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/FireF/shot_tracker/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/FireF/shot_tracker/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/FireF/shot_tracker/build/windows/x64/runner/Debug/data/flutter_assets/assets/half_court.png
+C:/Users/FireF/shot_tracker/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/FireF/shot_tracker/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/FireF/shot_tracker/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/FireF/shot_tracker/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/FireF/shot_tracker/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/FireF/shot_tracker/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
